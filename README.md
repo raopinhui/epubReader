@@ -1,2 +1,8 @@
 # epubReader
-lavas/epub.js/vue
+lavas
+epub.js
+axios
+scss
+
+
+
